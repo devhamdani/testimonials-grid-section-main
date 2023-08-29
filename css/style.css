@@ -556,7 +556,7 @@ p {
             'kira';
   justify-content: center;
   align-content: center;
-  gap: 1.5rem;
+  gap: 2rem;
   margin: 40px auto;
 }
 
@@ -661,6 +661,30 @@ p {
 
 .w-screen {
   width: 100vw;
+}
+
+.border-moderate_violet\/50 {
+  border-color: hsl(263 55% 52% / 0.5);
+}
+
+.border-very_dark_blackish_blue {
+  --tw-border-opacity: 1;
+  border-color: hsl(219 29% 14% / var(--tw-border-opacity));
+}
+
+.border-very_dark_grayish_blue {
+  --tw-border-opacity: 1;
+  border-color: hsl(217 19% 35% / var(--tw-border-opacity));
+}
+
+.border-moderate_violet {
+  --tw-border-opacity: 1;
+  border-color: hsl(263 55% 52% / var(--tw-border-opacity));
+}
+
+.border-white {
+  --tw-border-opacity: 1;
+  border-color: hsl(0 0% 100% / var(--tw-border-opacity));
 }
 
 .bg-light_grayish_blue {
