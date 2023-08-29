@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Check Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Check Solution](https://github.com/feDev-Hammad/testimonials-grid-section-main)
+- Live Site URL: [Live Site](https://fedev-hammad.github.io/testimonials-grid-section-main/)
 
 ## My process
 

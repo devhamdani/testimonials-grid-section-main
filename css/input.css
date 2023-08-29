@@ -17,10 +17,6 @@
 
 @layer components {
 
-    body {
-        /* padding: 20px; */
-    }
-
     .main_layout {
 
         width: 90%;
@@ -34,11 +30,10 @@
             'jeanette'
             'patrick '
             'kira';
-        /* grid-auto-flow: column; */
         justify-content: center;
         align-content: center;
         gap: 1.5rem;
-        margin: 20px auto;
+        margin: 40px auto;
 
 
     }
