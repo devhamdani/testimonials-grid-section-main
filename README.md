@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Check Solution](https://github.com/feDev-Hammad/testimonials-grid-section-main)
-- Live Site URL: [Live Site](https://fedev-hammad.github.io/testimonials-grid-section-main/)
+- Live Site URL: [Preview](https://fedev-hammad.github.io/testimonials-grid-section-main/)
 
 ## My process
 
